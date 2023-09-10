@@ -1,3 +1,5 @@
+type Uid = string;
+
 declare type Payload = {
     uid: Uid;
     level: number;
